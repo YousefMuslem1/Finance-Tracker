@@ -14,6 +14,6 @@
 <h2>Technologies</h2>
 <ul>
     <li><strong>Backend:</strong> Laravel 11</li>
-    <li><strong>Frontend:</strong> Bootstrap 5</li>
-    <li><strong>Database:</strong> MySQL</li>
+    <li><strong>Frontend:</strong> Bootstrap 5 & JQuery</li>
+    <li><strong>Database:</strong> MySQL</li><li>
 </ul>
